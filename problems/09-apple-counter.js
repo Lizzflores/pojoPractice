@@ -30,7 +30,7 @@ appleCounter(obj3); // => 3
 // return how many times the keys have the word apple
 // return the count
 //lowerCase all the keys to check
-//turn them to lowecase and then check wich ones include the word apple and increment the count for the ones who do
+//turn them to lowercase and then check wich ones include the word apple and increment the count for the ones who do
 function appleCounter(appleObj) {
   // let appleCount = 0;
 
